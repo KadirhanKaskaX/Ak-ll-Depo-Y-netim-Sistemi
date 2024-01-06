@@ -1,0 +1,8 @@
+﻿  InventoryManagementSystem.cpp
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(137,48): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(149,48): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(162,43): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(180,20): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(218,23): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\fbkar\Desktop\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.cpp(246,20): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  InventoryManagementSystem.vcxproj -> C:\Users\fbkar\Desktop\InventoryManagementSystem\x64\Debug\InventoryManagementSystem.exe
